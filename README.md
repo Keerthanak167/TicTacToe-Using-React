@@ -6,7 +6,7 @@ A clean and fun Tic-Tac-Toe game built with **React** that supports both **Multi
 
 ## 🖼️ Screenshot
 
-![Game Screenshot](https://github.com/Keerthanak167/TicTacToe-Using-React/blob/gh-pages/Screenshot%202025-07-28%20202547.png)
+![Game Screenshot](https://github.com/Keerthanak167/TicTacToe-Using-React/blob/master/Screenshot%202025-07-28%20202547.png)
 
 ---
 
