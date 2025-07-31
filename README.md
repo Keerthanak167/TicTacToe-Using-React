@@ -3,7 +3,8 @@
 A clean and fun Tic-Tac-Toe game built with **React** that supports both **Multiplayer** and **Single Player (AI)** modes. Includes a dark mode toggle and confetti celebration on win! 🎉
 
 ---
-
+##Sample
+https://keerthanak167.github.io/TicTacToe-Using-React/
 ## 🖼️ Screenshot
 
 ![Game Screenshot](https://github.com/Keerthanak167/TicTacToe-Using-React/blob/master/Screenshot%202025-07-28%20202547.png)
